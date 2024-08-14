@@ -1,4 +1,4 @@
-### DeBERTaQA
+# DeBERTaQA
 
 This work is devoted to the implementation of the **DeBERTa-v1** model from scratch and its fine-tuning for the question answering task.
 - The work is based on the paper [DeBERTa: Decoding-enhanced BERT with Disentangled Attention](https://arxiv.org/abs/2006.03654)
